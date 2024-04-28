@@ -1,9 +1,9 @@
-
+import { Button } from "antd-mobile";
 
 function App() {
 
   return (
-   <div>this is app</div>
+   <div><Button>this is app</Button></div>
   )
 }
 
